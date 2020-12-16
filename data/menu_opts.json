@@ -1,0 +1,33 @@
+{
+  "nombreApp" : "América Precolombina",
+  "rutas_maya" : [
+    {
+      "ruta" : "ubicacion_maya",
+      "icon" : "ubicacion_maya",
+      "texto": "Ubicación",
+      "subtitulo" : "Zonas del continente americano donde se ubicaron"
+    },
+    
+    {
+      "ruta" : "estructura_social_maya",
+      "icon" : "estructura_social_maya",
+      "texto": "Estructura Social",
+      "subtitulo" : "División general de la sociedad"
+    },
+    
+    {
+      "ruta" : "mitologia_maya",
+      "icon" : "mitologia_maya",
+      "texto": "Mitología",
+      "subtitulo" : "Principales dioses de la cultura"
+    },
+    
+    {
+      "ruta" : "reto_maya",
+      "icon" : "reto_maya",
+      "texto": "Reto",
+      "subtitulo" : "Actividad Lúdica"
+    }
+    
+    ]
+}

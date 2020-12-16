@@ -1,0 +1,141 @@
+{
+  "cultura_maya": [
+    {
+      "ubicacion": [
+        {
+          "nombre": "Ubicación",
+          "descripcion": "Los mayas fueron una de las tres mayores civilizaciones que habitaron hace muchos años en lo que hoy conocemos como América, estos ocupaban lo que actualmente conocemos como el Sur de México, Guatemala, Belice, el este de Honduras y el norte del Salvador.",
+          "imagen": "mapa_maya"
+        }
+      ]
+    },
+    {
+      "organizacion": [
+        {
+          "nombre": "Organización Territorial",
+          "descripcion": "En las ciudades mayas el centro de la ciudad era ocupado por complejos ceremoniales y administrativos, rodeado por una irregular expansión de barrios residenciales. A menudo las diferentes partes de una ciudad eran conectadas por calzadas. La arquitectura principal de la ciudad se componía de palacios, templos piramidales, juegos de pelota ceremoniales, y estructuras alineadas para la observación astronómica."
+        }
+      ]
+    },
+    {
+      "gobernante_destacado": [
+        {
+          "nombre": "Gobernante Destacado",
+          "descripcion": "El gobernante maya màs destacado fue K'inich Janaab Pakal o  Pakal “el Grande”. Se convirtió en rey a la edad de doce años, gobernó por 68 años, convirtiéndose así en uno de los gobernantes más longevos de la historia. Ascendió al poder después de que Palenque hubiera sufrido un período de adversidad. Durante las primeras décadas de su gobierno se vivió una época de paz y productividad. En el 659 inició una campaña militar que consolidó a Palenque como una de las ciudades más importantes de la región. El gobierno de Pakal se caracterizó por haber impulsado el crecimiento de la obra arquitectónica de Palenque y por haber iniciado los registros jeroglíficos de su historia dinástica."
+        }
+      ]
+    },
+    {
+      "construcciones_destacadas": [
+        {
+          "nombre": "El Templo de las Inscripciones ",
+          "descripcion": "Construido en el período Clásico Tardío (alrededor de 650 E.C.), se impone como el templo más elevado de toda la civilización maya con 25 metros de altura. El responsable de su levantamiento es el rey Pakal. El nombre de este templo se debe a las inscripciones que decoran el santuario superior que cuentan la vida de este monarca.",
+          "imagen": "templo_de_las_inscripciones"
+        },
+        {
+          "nombre": "El Templo del Gran Jaguar",
+          "descripcion": "El Templo del Gran Jaguar está ubicado de cara al sol poniente. Este rascacielo de la antigüedad llamaba la atención de todos los que pisaban la plaza de Tikal como símbolo de poder y redención.",
+          "imagen": "templo_gran_jaguar"
+        },
+        {
+          "nombre": "El Templo de los Guerreros",
+          "descripcion": "Situado en la ciudad de Chichén Itzá y rodeado de las asombrosas mil columnas, se presume que fue construido en el año 1200 E.C. En el interior se podrá encontrar un buen número de salas en forma de bóvedas, estando en la entrada una magistral escultura de Chac Mool, que significa «El gran jaguar rojo».",
+          "imagen": "templo_de_los_guerreros"
+        },
+        {
+          "nombre": "Templo de Kukulkáns",
+          "descripcion": "es un edificio prehispánico ubicado en la península de Yucatán, en el actual estado del mismo nombre. El actual templo se construyó en el siglo XII d. C. por los mayas itzaes en su capital, la ciudad de Chichén Itzá, fundada originalmente en el siglo VI d. C.1​ Su diseño tiene una forma geométrica piramidal; cuenta con nueve niveles o basamentos, cuatro fachadas principales, cada una con una escalinata central, y una plataforma superior, rematada por un templete.",
+          "imagen": "templo_kukulkan"
+        }
+      ]
+    },
+    {
+      "estructura_social": [
+        {
+          "nombre": "Estructura Social",
+          "descripcion": "La sociedad maya se dividía en cuatro grandes grupos sociales según la actividad y el origen o nacimiento de la persona: nobleza, comerciantes, artesanos-campesinos y esclavos",
+          "imagen": "sociedad_maya",
+          "grupos_sociales" : [
+            {
+            "nombre": "Nobleza",
+            "descripcion": "A la cabeza de cada ciudad-Estado maya se hallaba el jefe supremo o 'Gran Señor', Halach Uinic (hombre verdadero). Era el soberano absoluto, la máxima autoridad política. Se encargaba de dictar leyes, administrar justicia y organizaba el comercio.\n\nLos sacerdotes eran la clase más culta, ya que sabían leer y organizaban el calendario mediante la astronomía y las matemáticas. Además, se dedicaban al estudio de la arquitectura.\n\nLos guerreros, ocu­pados en la defensa y expansión. Los ejércitos estaban conformados por combatientes pagados, tanto en tiempos de paz como de guerra. Armados con arcos, flechas, hachas y lanzas, sus principales tácticas ofensivas fueron el ataque sorpresivo y la emboscada.",
+            "imagen": "nobleza_maya"
+          },
+          {
+            "nombre": "Comerciantes",
+            "descripcion": "Los pueblos se comunicaban por medio de comerciantes ambulantes que recorrían los caminos a pie, o por medio de verdaderos comerciantes profesionales que trasladaban las mercancías en canoas a lo largo de la costa y  a lo largo de los ríos.\n\nLa habilidad de los comerciantes-navegantes para la construcción de embarcaciones, sus conocimientos marítimos y su eficiencia en el comercio impresionaron profundamente a sus contemporáneos.\n\nEl comerciante maya era una pieza clave en la estructura y organización de la sociedad. Por el conocimiento que tenían, como ya quedó dicho, de las distintas regiones y las rutas de comercio, abrían la posibilidad de estrategias militares y de dominio político. De aquí la importancia del comercio, sus rutas y sus actores. ",
+            "imagen": "comerciante_maya"
+          },
+          {
+            "nombre": "Artesanos y Campesinos",
+            "descripcion": "Los artesanos y los campesinos constituían la clase inferior, llamada ah chembal uinicoob. Ellos debían trabajar y además pagar tributos a los altos dignatarios civiles y religiosos. Por lo general, los campesinos se encontraban en las selvas, agrupados en pequeñas comunidades. Vivían a bastante distancia del centro de las ciudades, pero cerca de los terrenos de cultivo.\n\nLa mayor parte de la población maya estaba formada por el campesinado y los trabajadores urbanos, quienes debían pagar a sus gobernantes un tributo en trabajo o productos. Vivían de la agricultura y la caza.",
+            "imagen": "artesano_campesino_maya"
+          },
+          {
+            "nombre": "Esclavos",
+            "descripcion": "El ultimo escaño social era ocupado por los esclavos o ppentac-ob. En su mayoría se trataba de cautivos de guerra provenientes de otras ciudades o pueblos, ademas también lo integraban los delincuentes y personas que se habían vendido para pagar los tributos. Con frecuencia ellos eran ofrecidos en los rituales de sangre.",
+            "imagen": "esclavo_maya"
+          }
+          ]
+        }
+      ]
+    },
+    {
+      "mitologia":[
+        {
+          "nombre": "Mitología",
+          "descripcion":"La mitología maya nació con las tradiciones y la religión de una civilización antigua hace aproximadamente 3,000 años en Mesoamérica, en los territorios que hoy conocemos como Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán en México, además de una gran parte de Centroamérica. Aunque muchos textos fueron quemados por los españoles durante la colonización, algunas leyendas sobre los mayas siguen vigentes y son contadas como historias fantásticas por los mayas modernos.\n\nLas primeras imágenes que se han obtenido de dioses mayas fueron creadas por la civilización olmeca en México. Surgiendo en algún momento después de 1400 B. C., los olmecas vivieron a lo largo de la costa sur del Golfo de México durante aproximadamente mil años.",
+          
+          "dioses":[
+            {
+              "nombre":"Dioses",
+              "descripcion":"Los Mayas consiguieron dar explicaciones a la creación del cosmos, los fenómenos meteorológicos, el equilibrio natural, la vida, la muerte y lo que sucede después de esta, entre otras muchas cosas, a través de la creencia de que la vida estaba vinculada al tiempo infinito, dentro de un ciclo de creación y de destrucción, y a través de sus dioses. De hecho, los Mayas creían que la vida se había destruido 4 veces y se había formado 5 veces, por este motivo controlaban muy bien todo lo relacionado con el tiempo y los ciclos.\n\nAdemás, los Mayas consiguieron expandirse por el territorio americano, sobre todo en la zona sureste del actual México, llevando sus dioses a distintos pueblos del área. Para los Mayas, los dioses eran capaces de presentarse en su vida cotidiana, es decir en la realidad terrenal, con distintas formas tales como animales, fenómenos naturales, plantas e incluso humanoides imponentes.\n\nA continuación se presentan los principales dioses mayas.",
+              "imagen":"dioses_mayas",
+              "dioses": [
+                {
+                  "nombre":"Hunab Ku",
+                  "descripcion":"Equivale al dios de la cultura maya más importante pues es la figura principal en cuanto a creencias ya que se dice que es el único verdadero y vivo. Se dice que de él nacen todas las cosas puesto que alberga todas las dualidades, asimismo afirman que es el padre de todos los dioses y se le describe como ntidad incorpórea.",
+                  "imagen":"hunab_ku"
+                  
+                },
+                {
+                  "nombre":"Itzamná",
+                  "descripcion":"Es el señor del cielo, dios maya de la sabiduría y llamado por algunos Zamná por lo tanto se le reconoce como el creador de las ciencias y el conocimiento. De acuerdo al plano en el que se presente puede ser identificado como un anciano e incluso como un animal.",
+                  "imagen":"itzamna"
+                  
+                },
+                {
+                  "nombre":"Ixchel",
+                  "descripcion": "Diosa de la luna, relacionada enormemente con la fertilidad y el agua. Su culto era el preferido de las sacerdotisas y era esta deidad a quien se le pedía ayuda en los nacimientos y enfermedades relacionadas con los órganos femeninos.",
+                  "imagen":"ixchel"
+                  
+                },
+                {
+                  "nombre":"Yum Kaax",
+                  "descripcion":"El gran dios del maíz, asimismo patrono de la agricultura y guardián de los animales. Su adoración era más que fundamental puesto que tenía mucho que ver con las actividades principales de esta civilización.",
+                  "imagen":"dioses_mayas"
+                  
+                },
+                {
+                  "nombre":"Kauil",
+                  "descripcion":"Sobre este dios se asegura que es el padre y madre de la raza humana, se le asigna el poder del fuego y la capacidad de curar muchas enfermedades.",
+                  "imagen":"kauil"
+                  
+                }
+
+              ]
+            }
+          ],
+          "mito":[
+            {
+              "nombre":"El mito de la creación de los mayas (Popol Vuh)",
+              "descripcion_1":"La leyenda habla de unos hermanos gemelos muy hábiles en el tradicional juego de pelota. Cuando jugaban, hacían tanto ruido que molestaban a los dioses del Xibalbá, quienes los retaron a un torneo. Los dioses vencieron a los gemelos, los sacrificaron y sepultaron sus cuerpos debajo del campo de juego. La cabeza de uno de ellos, Hun Hunahpú, fue colgada de un árbol que producía calabazas con forma humana. Una diosa llamada Xquic oyó hablar del extraño árbol y decidió ir a conocerlo. Cuando se acercó a él, la cabeza de Hun Hunahpú le escupió en la mano, fecundándola. Así concibió a Hunahpú y Xbalanqué, conocidos como los Héroes Gemelos. Con el tiempo se convirtieron en jugadores como su padre y su tío. Los dioses los convocaron al Xibalbá y los vencieron en el campo de juego, molieron sus huesos y los esparcieron en un río, donde los gemelos renacieron, primero como peces y luego como actores itinerantes.",
+              "descripcion_2":"Al regresar al Xibalbá, para tomar venganza, urdieron una trampa. Tras interpretar diversos números asombrosos, Xbalanqué decapitó a Hunahpú y volvió a colocarle la cabeza. Los dioses, encantados con el espectáculo, les rogaron que los decapitaran y les devolvieran la vida también a ellos. Los Héroes Gemelos simularon obedecer y procedieron a decapitar a los dioses. Al final lograron consumar su venganza: se negaron a recomponer sus cuerpos y los derrotaron para siempre. Así fue cómo triunfó el bien sobre el mal, y el mundo estuvo preparado para la creación de los seres humanos. Xbalanqué y Hunahpú emergieron del Xibalbá como el sol y la luna -dones para los mayas- y se elevaron al cielo. Cada día reinterpretan su viaje al mundo del Más Allá y su jubiloso retorno.",
+              "imagen":"popol_vuh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
